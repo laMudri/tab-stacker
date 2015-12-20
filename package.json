@@ -1,0 +1,10 @@
+{
+  "name": "tab-stacker",
+  "title": "Tab Stacker",
+  "id": "jid1-2SPCL58gyI70Ng",
+  "description": "Moves selected unpinned tabs to the left of the tab bar. A port of Tab Stacker for Chrome.",
+  "author": "James Wood",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "permissions": {"private-browsing": true}
+}
